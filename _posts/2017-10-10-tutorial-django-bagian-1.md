@@ -5,3 +5,5 @@ comments: true
 ---
 
 Test
+
+{% include disqus.html %}
